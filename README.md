@@ -5,6 +5,7 @@
 * Personal project
 * Working with JavaScript
 * Working with HTML and CSS
+* Without mobile adaptive
 
 ### Stack
 
