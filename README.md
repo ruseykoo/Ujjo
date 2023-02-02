@@ -14,4 +14,4 @@
 
 ### GitHub Pages
 
-* https://ruseykoo.github.io/ujjo/
+* https://ruseykoo.github.io/Ujjo/
